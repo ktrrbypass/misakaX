@@ -24,7 +24,7 @@ https://onejailbreak.com/blog/misakax/
 - **Boot Chime** (iOS 17.0+)
 - **Stage Manager** (iOS 16.0+)
 - **Shutter Sound** (iOS 16.0+)  
-Please do not use camera silence for the purpose of voyeurism. For photographing pets, etc.
+  - Please do not use camera silence for the purpose of voyeurism. For photographing pets, etc.
 - **Always-on Display (AoD)** (iOS 18.0+)
 - **Apple Pencil** (iOS 18.0+)
 - **Action Button** (iOS 17.0+)
@@ -43,8 +43,8 @@ Please do not use camera silence for the purpose of voyeurism. For photographing
 
 **Some more features will be added soon. Please look forward to them** ❤️
 
-## icon
-[tyler10290](https://x.com/tyler10290)
+## Icon
+Created by: [tyler10290](https://x.com/tyler10290)
 
 ## Setting Up
 - You will need to extract your MobileGestalt file to use this tool. It can be extracted with this [Shortcut.](https://www.icloud.com/shortcuts/e2077174cc424253a24164a1df674ac4)
